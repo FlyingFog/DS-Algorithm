@@ -9,3 +9,6 @@ Record my course of Data Structures and Algorithm Analysis.
 
 ## EX3
    哈夫曼编码（二叉树）
+
+## EX4
+   排课（拓扑排序）
